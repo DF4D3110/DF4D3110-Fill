@@ -1,0 +1,107 @@
+PSFExtractor -v2 kb777777-arm-neutral-admin.PSF kb777777-arm-neutral-admin.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-neutral-amcore.PSF kb777777-arm-neutral-amcore.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-neutral-avcore.PSF kb777777-arm-neutral-avcore.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-neutral-base.PSF kb777777-arm-neutral-base.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-neutral-com.PSF kb777777-arm-neutral-com.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-neutral-common_foundation.PSF kb777777-arm-neutral-common_foundation.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-neutral-drivers.PSF kb777777-arm-neutral-drivers.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-neutral-ds.PSF kb777777-arm-neutral-ds.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-neutral-enduser.PSF kb777777-arm-neutral-enduser.PSF.CIX.XML G:\kb777777-arm-neutral-enduser
+PSFExtractor -v2 kb777777-arm-neutral-inetcore.PSF kb777777-arm-neutral-inetcore.PSF.CIX.XML G:\kb777777-arm-neutral-inetcore
+PSFExtractor -v2 kb777777-arm-neutral-inetsrv.PSF kb777777-arm-neutral-inetsrv.PSF.CIX.XML G:\kb777777-arm-neutral-inetsrv
+PSFExtractor -v2 kb777777-arm-neutral-mincore.PSF kb777777-arm-neutral-mincore.PSF.CIX.XML G:\kb777777-arm-neutral-mincore
+PSFExtractor -v2 kb777777-arm-neutral-minio.PSF kb777777-arm-neutral-minio.PSF.CIX.XML G:\kb777777-arm-neutral-minio
+PSFExtractor -v2 kb777777-arm-neutral-minkernel.PSF kb777777-arm-neutral-minkernel.PSF.CIX.XML G:\kb777777-arm-neutral-minkernel
+PSFExtractor -v2 kb777777-arm-neutral-multimedia.PSF kb777777-arm-neutral-multimedia.PSF.CIX.XML G:\kb777777-arm-neutral-multimedia
+PSFExtractor -v2 kb777777-arm-neutral-net.PSF kb777777-arm-neutral-net.PSF.CIX.XML G:\kb777777-arm-neutral-net
+PSFExtractor -v2 kb777777-arm-neutral-printscan.PSF kb777777-arm-neutral-printscan.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-neutral-redist.PSF kb777777-arm-neutral-redist.PSF.CIX.XML G:\kb777777-arm-neutral-redist
+PSFExtractor -v2 kb777777-arm-neutral-sdktools.PSF kb777777-arm-neutral-sdktools.PSF.CIX.XML G:\kb777777-arm-neutral-sdktools
+PSFExtractor -v2 kb777777-arm-neutral-shell.PSF kb777777-arm-neutral-shell.PSF.CIX.XML G:\kb777777-arm-neutral-shell
+PSFExtractor -v2 kb777777-arm-neutral-termsrv.PSF kb777777-arm-neutral-termsrv.PSF.CIX.XML G:\kb777777-arm-neutral-termsrv
+PSFExtractor -v2 kb777777-arm-neutral-ua.PSF kb777777-arm-neutral-ua.PSF.CIX.XML G:\kb777777-arm-neutral-ua
+PSFExtractor -v2 kb777777-arm-neutral-vm.PSF kb777777-arm-neutral-vm.PSF.CIX.XML G:\kb777777-arm-neutral-vm
+PSFExtractor -v2 kb777777-arm-neutral-windows.PSF kb777777-arm-neutral-windows.PSF.CIX.XML G:\kb777777-arm-neutral-windows
+PSFExtractor -v2 kb777777-arm-ar-sa-merged.PSF kb777777-arm-ar-sa-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-ca-es-merged.PSF kb777777-arm-ca-es-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-de-de-merged.PSF kb777777-arm-de-de-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-en-us-merged.PSF kb777777-arm-en-us-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-es-es-merged.PSF kb777777-arm-es-es-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-fr-fr-merged.PSF kb777777-arm-fr-fr-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-ja-jp-merged.PSF kb777777-arm-ja-jp-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-ko-kr-merged.PSF kb777777-arm-ko-kr-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-pt-br-merged.PSF kb777777-arm-pt-br-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-ru-ru-merged.PSF kb777777-arm-ru-ru-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-sv-se-merged.PSF kb777777-arm-sv-se-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-tr-tr-merged.PSF kb777777-arm-tr-tr-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-merged.PSF kb777777-arm-zh-cn-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-tw-merged.PSF kb777777-arm-zh-tw-merged.PSF.CIX.XML G:\SXS
+
+PSFExtractor -v2 kb777777-arm-neutral-mergedcomponents.PSF kb777777-arm-neutral-mergedcomponents.PSF.CIX.XML G:\kb777777-arm-neutral-mergedcomponents
+
+E:\6.2.8400arm_南段>PSFExtractor -v2 kb777777-arm-neutral-enduser.PSF KB777777-arm-neutral-enduser.psf.cix.XML G:\SXS
+
+PSFExtractor v3.07 (Sep 7 2022) by th1r5bvn23
+https://www.betaworld.cn/
+
+Reading file info...
+Error: Error reading description file.
+
+
+PSFExtractor -v2 kb777777-arm-ar-sa-merged.PSF kb777777-arm-ar-sa-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-ca-es-merged.PSF kb777777-arm-ca-es-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-de-de-merged.PSF kb777777-arm-de-de-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-en-us-merged.PSF kb777777-arm-en-us-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-es-es-merged.PSF kb777777-arm-es-es-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-fr-fr-merged.PSF kb777777-arm-fr-fr-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-ja-jp-merged.PSF kb777777-arm-ja-jp-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-ko-kr-merged.PSF kb777777-arm-ko-kr-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-pt-br-merged.PSF kb777777-arm-pt-br-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-ru-ru-merged.PSF kb777777-arm-ru-ru-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-sv-se-merged.PSF kb777777-arm-sv-se-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-tr-tr-merged.PSF kb777777-arm-tr-tr-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-merged.PSF kb777777-arm-zh-cn-merged.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-tw-merged.PSF kb777777-arm-zh-tw-merged.PSF.CIX.XML G:\SXS
+
+
+
+E:\6.2.8250.0 (winmain_win8beta.120217-1520) armfre\CHS>PSFExtractor -v2 kb777777-arm-neutral-common_foundation.PSF KB777777-arm-neutral-common_foundation.psf.cix.XML G:\SXS
+PSFExtractor -v2 v3.07 (Sep 7 2022) by th1r5bvn23
+https://www.betaworld.cn/
+
+Reading file info...
+Error: Error reading description file.
+
+E:\6.2.8250.0 (winmain_win8beta.120217-1520) armfre\CHS>PSFExtractor -v2 kb777777-arm-neutral-ua.PSF kb777777-arm-neutral-ua.PSF.CIX.XML G:\SXS
+PSFExtractor -v2 v3.07 (Sep 7 2022) by th1r5bvn23
+https://www.betaworld.cn/
+
+Reading file info...
+Error: Error reading description file.
+
+
+PSFExtractor -v2 kb777777-arm-zh-cn-admin.psf kb777777-arm-zh-cn-admin.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-amcore.psf kb777777-arm-zh-cn-amcore.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-avcore.psf kb777777-arm-zh-cn-avcore.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-base.psf kb777777-arm-zh-cn-base.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-com.psf kb777777-arm-zh-cn-com.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-common_foundation.psf kb777777-arm-zh-cn-common_foundation.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-drivers.psf kb777777-arm-zh-cn-drivers.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-ds.psf kb777777-arm-zh-cn-ds.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-enduser.psf kb777777-arm-zh-cn-enduser.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-inetcore.psf kb777777-arm-zh-cn-inetcore.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-inetsrv.psf kb777777-arm-zh-cn-inetsrv.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-mergedcomponents.psf kb777777-arm-zh-cn-mergedcomponents.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-mincore.psf kb777777-arm-zh-cn-mincore.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-minio.psf kb777777-arm-zh-cn-minio.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-minkernel.psf kb777777-arm-zh-cn-minkernel.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-multimedia.psf kb777777-arm-zh-cn-multimedia.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-net.psf kb777777-arm-zh-cn-net.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-printscan.psf kb777777-arm-zh-cn-printscan.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-redist.psf kb777777-arm-zh-cn-redist.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-sdktools.psf kb777777-arm-zh-cn-sdktools.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-shell.psf kb777777-arm-zh-cn-shell.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-termsrv.psf kb777777-arm-zh-cn-termsrv.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-ua.psf kb777777-arm-zh-cn-ua.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-vm.psf kb777777-arm-zh-cn-vm.psf.cix.xml G:\SXS
+PSFExtractor -v2 kb777777-arm-zh-cn-windows.psf kb777777-arm-zh-cn-windows.psf.cix.xml G:\SXS
